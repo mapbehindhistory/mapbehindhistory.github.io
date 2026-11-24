@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://mapbehindhistory.github.io/sitemap.xml
